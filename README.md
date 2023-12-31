@@ -34,4 +34,5 @@ ex: util, models, main, blockchain, blocks, api, etc. </li>
 <li> I intend to add UI/UX design to this simple blockchain so the user can do the API request and visualize the handles/functions </li>
 <li> Add more scalability with the keys and the blocks. </li>
 
-Ouput: ![Screenshot 2023-12-30 212909](https://github.com/Goqwin/Cryptomine-/assets/115321545/001f5900-2da2-40ba-b1d8-5ec3b6dd0ed7)
+Output
+![Screenshot 2023-12-30 212909](https://github.com/Goqwin/GoCryptoMine/assets/115321545/af86539c-077d-4ede-bf6e-4b89fb9bd38f)

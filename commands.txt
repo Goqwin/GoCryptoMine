@@ -1,0 +1,11 @@
+
+Use the Terminal and run:
+go run main.go
+
+Use the cmd line and run any of the following apis below. 
+
+The following commands below are used to test the API 
+curl http://localhost:8080/blockchain/add --include --header "Content-Type: application/json" -d @body.json --request "POST"
+curl http://localhost:8080/blockchain
+curl http://localhost:8080/blockchain/validity 
+

@@ -1,0 +1,17 @@
+[
+    {
+      "user1": "John",
+      "action": "Sent",
+      "amount": 10.0,
+      "symbol": "QNT",
+      "user2": "Bob"
+    },
+    {
+      "user1": "Bob",
+      "action": "Sent",
+      "amount": 5.0,
+      "symbol": "ETH",
+      "user2": "Steven"
+    }
+  ]
+  
